@@ -1,0 +1,6 @@
+streamlit
+antorcha
+torchvision
+pandas 
+almoahada numpy
+opencv-python
