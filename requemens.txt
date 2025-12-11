@@ -1,5 +1,5 @@
 streamlit
-antorcha
+torch
 torchvision
 pandas 
 almoahada numpy
